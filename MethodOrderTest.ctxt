@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MethodOrderTest
+comment0.text=\r\n\ Secuencia\ de\ prueba\ de\ m\u00E9todos\ personalizados\r\n\r\n\ @author\u00A0xusucheng\r\n\ @create\ 2018-12-14\r\n
+comment1.params=
+comment1.target=void\ testFirst()
+comment2.params=
+comment2.target=void\ testSecond()
+comment3.params=
+comment3.target=void\ testThree()
+numComments=4

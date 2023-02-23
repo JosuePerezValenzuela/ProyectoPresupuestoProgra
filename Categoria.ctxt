@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Categoria
+comment1.params=nombre\ presupuesto
+comment1.target=Categoria(java.lang.String,\ int)
+comment10.params=nombreGasto
+comment10.target=java.lang.String\ eliminarGasto(java.lang.String)
+comment11.params=nombreGasto
+comment11.target=int\ buscarGasto(java.lang.String)
+comment12.params=
+comment12.target=java.lang.String\ obtenerInforme()
+comment2.params=cadena
+comment2.target=Categoria(java.lang.String)
+comment3.params=gastosCadena
+comment3.target=void\ cadenaAGastos(java.lang.String[])
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment5.params=
+comment5.target=int\ getPresupuesto()
+comment6.params=
+comment6.target=int\ getGastoTotal()
+comment7.params=
+comment7.target=java.util.ArrayList\ getGastos()
+comment8.params=
+comment8.target=int\ getPresupuestoRestante()
+comment9.params=gasto
+comment9.target=void\ agregarGasto(Gasto)
+numComments=13

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ArchivoTexto
+comment1.params=
+comment1.target=ArchivoTexto()
+comment2.params=nombre
+comment2.target=boolean\ crearArchivo(java.lang.String)
+comment3.params=nombre\ contenido
+comment3.target=java.lang.String\ escribirArchivo(java.lang.String,\ java.lang.String)
+comment4.params=nombre
+comment4.target=java.lang.String\ leerArchivo(java.lang.String)
+comment5.params=valor
+comment5.target=void\ setEscribo(boolean)
+comment6.params=
+comment6.target=boolean\ getEscribo()
+numComments=7
